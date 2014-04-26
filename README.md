@@ -2,7 +2,7 @@ Tidying up data
 ======================
 
 Peer Assessments - Getting and Cleaning Data Project
-—————————————————————————————————————————————————————
+----------------------------------------------------
 
 1. a tidy data set as described below, 
 2. a link to a Github repository with your script for performing the analysis, and 
